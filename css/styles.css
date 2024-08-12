@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.caja {
+    height: 500px;
+}
+
+.p {
+    height: 150px;
+    padding: 10px;
+    position: absolute;
+    z-index: 1
+}
+
+.ac {
+    height: 100px;
+    padding: 30px;
+    position: absolute;
+    left: 1400px;
+    z-index: 2;
+    left: 390px;
+}
+
+.grafica {
+    height: 100px;
+    padding: 20px;
+    position: absolute;
+    left: 550px;
+    z-index: 3
+}
+
+.com {
+    height: 80px;
+    padding: 20px;
+    position: absolute;
+    left: 870px;
+    z-index: 4
+}
